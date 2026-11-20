@@ -7,7 +7,8 @@
 //  - 서버 데이터는 textContent로만 넣는다(innerHTML을 쓰지 않는다). 외부 링크는 http(s)만 연결한다.
 //  - 진행 단계를 실시간으로 받는 API가 없으므로, 기다리는 동안에는 가짜 진행률 대신 경과 시간과 스켈레톤만 보여 준다.
 
-const DEMO = new URLSearchParams(location.search).has("demo");
+// ?demo 또는 정적 배포본(<html data-mode="demo">, scripts/build_static_demo.py)이면 예시 모드로 동작한다
+const DEMO = new URLSearchParams(location.search).has("demo") || document.documentElement.dataset.mode === "demo";
 const $ = (sel, root = document) => root.querySelector(sel);
 const $$ = (sel, root = document) => [...root.querySelectorAll(sel)];
 const WIDE = window.matchMedia("(min-width: 1100px)");            // 이 폭부터 오른쪽 관람 계획 패널을 쓴다
@@ -216,7 +217,9 @@ function routeChips(summary) {
 function poster(rec, { eager = false } = {}) {
   const box = h("div", { class: "poster" });
   const placeholder = () => box.replaceChildren(h("div", { class: "poster-ph" }, archMark(), h("span", null, rec.title)));
-  const src = safeUrl(rec.poster_url);
+  // HTTPS로 배포된 화면에서는 http 포스터가 막힐 수 있어 https로 바꿔 부른다 (KOPIS는 https 지원)
+  const raw = safeUrl(rec.poster_url);
+  const src = raw && location.protocol === "https:" ? raw.replace(/^http:\/\//i, "https://") : raw;
   if (src) {
     const img = h("img", { src, alt: `${rec.title} 포스터`, loading: eager ? "eager" : "lazy", decoding: "async" });
     img.addEventListener("error", placeholder, { once: true });
@@ -1093,7 +1096,14 @@ async function deleteLog() {
 
 // ── 서비스 상태 ───────────────────────────────────────────────────────────
 async function loadHealth() {
-  if (DEMO) return;  // 예시 화면은 저장된 결과를 보여 줄 뿐이라 키 안내가 필요 없다
+  if (DEMO) {
+    // 예시 화면은 저장된 결과를 보여 줄 뿐이라 키 안내 대신, 무엇을 입력해도 같은 결과가 나온다는 점을 알린다
+    const banner = $("#health-banner");
+    banner.textContent = "예시 화면이에요. 실제 API로 받아 저장해 둔 검색 결과를 보여 드려서, 어떤 문장을 입력해도 같은 결과가 나와요.";
+    banner.classList.add("is-demo");
+    banner.classList.remove("hidden");
+    return;
+  }
   try {
     const health = await api("GET", "/api/health");
     const missing = Object.entries(health.services || {}).filter(([, ok]) => !ok).map(([k]) => SERVICE_LABEL[k] || k);

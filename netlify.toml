@@ -1,0 +1,5 @@
+# Netlify 정적 예시(데모) 배포 설정 — 백엔드와 API 키 없이 저장된 실제 응답으로 동작한다.
+# 키 값은 Netlify에 넣지 않는다. 실제 검색(전체 앱)은 별도 서버(Render 등)가 필요하다.
+[build]
+  command = "python3 scripts/build_static_demo.py"
+  publish = "dist"

@@ -135,6 +135,7 @@ img { display: block; max-width: 100%; }
 .nav-link[aria-current="page"] { color: var(--stage-ink); background: var(--stage-raise); }
 .nav-link .short { display: none; }
 .banner { padding: 10px 24px; background: var(--warn-soft); color: var(--warn-ink); font-size: 14px; text-align: center; }
+.banner.is-demo { background: var(--stage-raise); color: var(--stage-ink); border-bottom: 1px solid var(--stage-line); }
 
 /* ── 히어로 ───────────────────────────────────────────────────────────── */
 .hero { position: relative; overflow: hidden; background: var(--stage); color: var(--stage-ink); padding: 76px 24px 64px; }

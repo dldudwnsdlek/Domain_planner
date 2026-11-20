@@ -17,3 +17,6 @@ __pycache__/
 .DS_Store
 .idea/
 .vscode/
+
+# 정적 예시 배포본 (scripts/build_static_demo.py가 만든다)
+dist/
