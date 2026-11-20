@@ -1,0 +1,2698 @@
+{
+ "S1": {
+  "session_id": "s-main",
+  "run_id": "r-751c017458",
+  "status": "ok",
+  "reply": "조건에 맞는 공연 5편을 찾았고, 그중 「아일랜드」를 먼저 보시면 좋아요. 18:00에 시작해 19:15에 끝나고 20:03에 망원역에 도착하며, 최저가는 30,000원이에요.",
+  "understood": {
+   "date": "2026-11-21",
+   "start_after": "18:00",
+   "region": "대학로",
+   "genre": "연극",
+   "home_by": "23:30",
+   "home_location": "망원역",
+   "budget_max": 50000
+  },
+  "defaults_applied": [],
+  "recommendations": [
+   {
+    "performance_id": "PF306792",
+    "title": "아일랜드",
+    "genre": "연극",
+    "poster_url": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF306792_261118_123938.gif",
+    "venue": {
+     "name": "소극장 플랫폼74",
+     "address": "서울특별시 종로구 동숭길 74 (동숭동)",
+     "map_url": "https://map.kakao.com/link/map/%EC%86%8C%EA%B7%B9%EC%9E%A5%20%ED%94%8C%EB%9E%AB%ED%8F%BC74,37.5815333,127.0043015"
+    },
+    "date": "2026-11-21",
+    "showtimes": [
+     {
+      "start": "18:00",
+      "end": "19:15",
+      "home_arrival": "20:03",
+      "verdict": "PASS"
+     }
+    ],
+    "min_price": 30000,
+    "price_raw": "전석 30,000원",
+    "age_rating": "15세 이상",
+    "ticket_links": [
+     {
+      "name": "놀유니버스",
+      "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26016636"
+     }
+    ],
+    "transit": {
+     "total_min": 38,
+     "summary": "4호선 → 5호선 → 6호선",
+     "map_url": "https://map.kakao.com/link/by/traffic/%EC%B6%9C%EB%B0%9C,37.581533,127.004302/%EB%8F%84%EC%B0%A9,37.556083,126.910094"
+    },
+    "weather": {
+     "status": "ok",
+     "summary": "18시 강수확률 0% · 기온 -2℃",
+     "hours": [
+      {
+       "time": "18:00",
+       "forecast_time": "18:00",
+       "pop": 0,
+       "pty": "없음",
+       "sky": "맑음",
+       "tmp": -2
+      },
+      {
+       "time": "19:15",
+       "forecast_time": "19:00",
+       "pop": 0,
+       "pty": "없음",
+       "sky": "맑음",
+       "tmp": -3
+      },
+      {
+       "time": "20:03",
+       "forecast_time": "20:00",
+       "pop": 0,
+       "pty": "없음",
+       "sky": "맑음",
+       "tmp": -3
+      }
+     ]
+    },
+    "evidence": [
+     "KOPIS 러닝타임 75분",
+     "토 18:00 회차",
+     "최저가 30,000원",
+     "카카오 대중교통 38분",
+     "기상청 단기예보"
+    ]
+   },
+   {
+    "performance_id": "PF305818",
+    "title": "증언의 목소리들",
+    "genre": "연극",
+    "poster_url": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF305818_261109_150230.gif",
+    "venue": {
+     "name": "창작공간 BBB",
+     "address": "서울특별시 종로구 이화장길 46 (이화동)",
+     "map_url": "https://map.kakao.com/link/map/%EC%B0%BD%EC%9E%91%EA%B3%B5%EA%B0%84%20BBB,37.577362,127.004709"
+    },
+    "date": "2026-11-21",
+    "showtimes": [
+     {
+      "start": "19:00",
+      "end": "20:40",
+      "home_arrival": "21:31",
+      "verdict": "PASS"
+     }
+    ],
+    "min_price": 15000,
+    "price_raw": "전석 15,000원",
+    "age_rating": "만 6세 이상",
+    "ticket_links": [
+     {
+      "name": "놀유니버스",
+      "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26016033"
+     }
+    ],
+    "transit": {
+     "total_min": 41,
+     "summary": "301 → 4호선 → 6호선",
+     "map_url": "https://map.kakao.com/link/by/traffic/%EC%B6%9C%EB%B0%9C,37.577362,127.004709/%EB%8F%84%EC%B0%A9,37.556083,126.910094"
+    },
+    "weather": {
+     "status": "ok",
+     "summary": "19시 강수확률 0% · 기온 -3℃",
+     "hours": [
+      {
+       "time": "19:00",
+       "forecast_time": "19:00",
+       "pop": 0,
+       "pty": "없음",
+       "sky": "맑음",
+       "tmp": -3
+      },
+      {
+       "time": "20:40",
+       "forecast_time": "21:00",
+       "pop": 0,
+       "pty": "없음",
+       "sky": "맑음",
+       "tmp": -3
+      },
+      {
+       "time": "21:31",
+       "forecast_time": "22:00",
+       "pop": 0,
+       "pty": "없음",
+       "sky": "맑음",
+       "tmp": -4
+      }
+     ]
+    },
+    "evidence": [
+     "KOPIS 러닝타임 100분",
+     "토 19:00 회차",
+     "최저가 15,000원",
+     "카카오 대중교통 41분",
+     "기상청 단기예보"
+    ]
+   },
+   {
+    "performance_id": "PF305998",
+    "title": "한국마임: 언제 어디서나 마임",
+    "genre": "연극",
+    "poster_url": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF305998_261110_145605.gif",
+    "venue": {
+     "name": "봄날아트홀 (구. 아리랑소극장)",
+     "address": "서울특별시 종로구 동숭길 39 (동숭동)",
+     "map_url": "https://map.kakao.com/link/map/%EB%B4%84%EB%82%A0%EC%95%84%ED%8A%B8%ED%99%80%20%28%EA%B5%AC.%20%EC%95%84%EB%A6%AC%EB%9E%91%EC%86%8C%EA%B7%B9%EC%9E%A5%29,37.5799517,127.00425100000007"
+    },
+    "date": "2026-11-21",
+    "showtimes": [
+     {
+      "start": "19:00",
+      "end": "20:10",
+      "home_arrival": "20:59",
+      "verdict": "PASS"
+     }
+    ],
+    "min_price": 20000,
+    "price_raw": "전석 20,000원",
+    "age_rating": "전체 관람가",
+    "ticket_links": [
+     {
+      "name": "놀유니버스",
+      "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26015971"
+     }
+    ],
+    "transit": {
+     "total_min": 39,
+     "summary": "4호선 → 5호선 → 6호선",
+     "map_url": "https://map.kakao.com/link/by/traffic/%EC%B6%9C%EB%B0%9C,37.579952,127.004251/%EB%8F%84%EC%B0%A9,37.556083,126.910094"
+    },
+    "weather": {
+     "status": "ok",
+     "summary": "19시 강수확률 0% · 기온 -3℃",
+     "hours": [
+      {
+       "time": "19:00",
+       "forecast_time": "19:00",
+       "pop": 0,
+       "pty": "없음",
+       "sky": "맑음",
+       "tmp": -3
+      },
+      {
+       "time": "20:10",
+       "forecast_time": "20:00",
+       "pop": 0,
+       "pty": "없음",
+       "sky": "맑음",
+       "tmp": -3
+      },
+      {
+       "time": "20:59",
+       "forecast_time": "21:00",
+       "pop": 0,
+       "pty": "없음",
+       "sky": "맑음",
+       "tmp": -3
+      }
+     ]
+    },
+    "evidence": [
+     "KOPIS 러닝타임 70분",
+     "토 19:00 회차",
+     "최저가 20,000원",
+     "카카오 대중교통 39분",
+     "기상청 단기예보"
+    ]
+   },
+   {
+    "performance_id": "PF306527",
+    "title": "없는 대화",
+    "genre": "연극",
+    "poster_url": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF306527_261116_143307.gif",
+    "venue": {
+     "name": "제이원 씨어터 (구. 서완소극장, 구. 씨어터고리)",
+     "address": "서울특별시 종로구 창경궁로34길 18-12",
+     "map_url": "https://map.kakao.com/link/map/%EC%A0%9C%EC%9D%B4%EC%9B%90%20%EC%94%A8%EC%96%B4%ED%84%B0%20%28%EA%B5%AC.%20%EC%84%9C%EC%99%84%EC%86%8C%EA%B7%B9%EC%9E%A5%2C%20%EA%B5%AC.%20%EC%94%A8%EC%96%B4%ED%84%B0%EA%B3%A0%EB%A6%AC%29,37.5841705,127.00042899999994"
+    },
+    "date": "2026-11-21",
+    "showtimes": [
+     {
+      "start": "19:00",
+      "end": "20:40",
+      "home_arrival": "21:28",
+      "verdict": "PASS"
+     }
+    ],
+    "min_price": 40000,
+    "price_raw": "전석 40,000원",
+    "age_rating": "만 12세 이상",
+    "ticket_links": [
+     {
+      "name": "놀유니버스",
+      "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26016438"
+     }
+    ],
+    "transit": {
+     "total_min": 38,
+     "summary": "4호선 → 5호선 → 6호선",
+     "map_url": "https://map.kakao.com/link/by/traffic/%EC%B6%9C%EB%B0%9C,37.584171,127.000429/%EB%8F%84%EC%B0%A9,37.556083,126.910094"
+    },
+    "weather": {
+     "status": "ok",
+     "summary": "19시 강수확률 0% · 기온 -3℃",
+     "hours": [
+      {
+       "time": "19:00",
+       "forecast_time": "19:00",
+       "pop": 0,
+       "pty": "없음",
+       "sky": "맑음",
+       "tmp": -3
+      },
+      {
+       "time": "20:40",
+       "forecast_time": "21:00",
+       "pop": 0,
+       "pty": "없음",
+       "sky": "맑음",
+       "tmp": -3
+      },
+      {
+       "time": "21:28",
+       "forecast_time": "21:00",
+       "pop": 0,
+       "pty": "없음",
+       "sky": "맑음",
+       "tmp": -3
+      }
+     ]
+    },
+    "evidence": [
+     "KOPIS 러닝타임 100분",
+     "토 19:00 회차",
+     "최저가 40,000원",
+     "카카오 대중교통 38분",
+     "기상청 단기예보"
+    ]
+   },
+   {
+    "performance_id": "PF305857",
+    "title": "오나리스 [서울]",
+    "genre": "연극",
+    "poster_url": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF305857_261109_161727.png",
+    "venue": {
+     "name": "북극곰소극장",
+     "address": "서울특별시 종로구 이화장1길 24 (이화동)",
+     "map_url": "https://map.kakao.com/link/map/%EB%B6%81%EA%B7%B9%EA%B3%B0%EC%86%8C%EA%B7%B9%EC%9E%A5,37.5773694,127.00575709999998"
+    },
+    "date": "2026-11-21",
+    "showtimes": [
+     {
+      "start": "19:30",
+      "end": "20:45",
+      "home_arrival": "21:37",
+      "verdict": "PASS"
+     }
+    ],
+    "min_price": 15000,
+    "price_raw": "전석 15,000원",
+    "age_rating": "만 16세 이상",
+    "ticket_links": [
+     {
+      "name": "플레이티켓",
+      "url": "http://playticket.co.kr/nav/detail.html?idx=4772"
+     }
+    ],
+    "transit": {
+     "total_min": 42,
+     "summary": "301 → 4호선 → 6호선",
+     "map_url": "https://map.kakao.com/link/by/traffic/%EC%B6%9C%EB%B0%9C,37.577369,127.005757/%EB%8F%84%EC%B0%A9,37.556083,126.910094"
+    },
+    "weather": {
+     "status": "ok",
+     "summary": "19시 강수확률 0% · 기온 -3℃",
+     "hours": [
+      {
+       "time": "19:30",
+       "forecast_time": "19:00",
+       "pop": 0,
+       "pty": "없음",
+       "sky": "맑음",
+       "tmp": -3
+      },
+      {
+       "time": "20:45",
+       "forecast_time": "21:00",
+       "pop": 0,
+       "pty": "없음",
+       "sky": "맑음",
+       "tmp": -3
+      },
+      {
+       "time": "21:37",
+       "forecast_time": "22:00",
+       "pop": 0,
+       "pty": "없음",
+       "sky": "맑음",
+       "tmp": -4
+      }
+     ]
+    },
+    "evidence": [
+     "KOPIS 러닝타임 75분",
+     "토 19:30 회차",
+     "최저가 15,000원",
+     "카카오 대중교통 42분",
+     "기상청 단기예보"
+    ]
+   }
+  ],
+  "excluded": [
+   {
+    "performance_id": "PF306557",
+    "title": "제3회 연문페스티벌, 복덕방",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "18:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF306452",
+    "title": "모든 날, 모든 순간 [대학로]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "18:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF305847",
+    "title": "엄마와 아들: 아들, 엄마도 처음이야! [대학로]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "18:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF305551",
+    "title": "모든 날 모든 순간",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "18:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF305990",
+    "title": "플레이티켓 낭독쇼케이스, 낙차 (11월)",
+    "reason_code": "NOT_DAEHAKRO",
+    "reason": "대학로 공연이 아니에요"
+   }
+  ],
+  "suggestions": [],
+  "facts": null,
+  "assumptions": [
+   "퇴장 여유 10분 포함",
+   "대중교통 시간은 시간대·막차 미반영",
+   "가격·회차는 변동될 수 있으니 예매처에서 최종 확인하세요"
+  ],
+  "sources": [
+   "출처: (재)예술경영지원센터 공연예술통합전산망(www.kopis.or.kr)",
+   "카카오맵",
+   "기상청 단기예보(공공누리 제1유형)"
+  ],
+  "trace": [
+   {
+    "seq": 4,
+    "label": "요청 분석 — plan_request",
+    "elapsed_ms": 1874,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 29,
+    "label": "계획 수립 — LLM 선택 search_performances, search_places + 규칙 보완 · 동시에 후보 선반입: 공연 목록 조회 ×1 · 공연 상세 ×10",
+    "elapsed_ms": 10641,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 53,
+    "label": "Tool 실행 — 공연장 좌표 ×5 · 장소 검색 ×1 · 이동시간 ×5 (후보는 계획 중 선반입)",
+    "elapsed_ms": 5859,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 56,
+    "label": "판정 — 통과 5 / 탈락 4 / 불가 0",
+    "elapsed_ms": 0,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 68,
+    "label": "날씨·지도 추가 — 상위 5편 · 날씨 조회 ×5",
+    "elapsed_ms": 1098,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 70,
+    "label": "응답 생성 — LLM 요약",
+    "elapsed_ms": 1129,
+    "is_replan": false,
+    "ok": true
+   }
+  ],
+  "replan_count": 0,
+  "warnings": [],
+  "elapsed_ms": 20615
+ },
+ "S9": {
+  "session_id": "s-main",
+  "run_id": "r-f8813ec9e8",
+  "status": "ok",
+  "reply": "‘아일랜드’ 2026-11-21 18:00~19:15 계획을 저장했어요.\n같은 날 17:00~18:30 ‘저녁 약속(직접 입력)’ 계획과 시간이 겹쳐요. (저장은 했어요)",
+  "understood": {
+   "date": "2026-11-21",
+   "start_after": "18:00",
+   "region": "대학로",
+   "genre": "연극",
+   "home_by": "23:30",
+   "home_location": "망원역",
+   "budget_max": 50000
+  },
+  "defaults_applied": [],
+  "recommendations": [],
+  "excluded": [],
+  "suggestions": [],
+  "facts": null,
+  "assumptions": [],
+  "sources": [
+   "출처: (재)예술경영지원센터 공연예술통합전산망(www.kopis.or.kr)",
+   "카카오맵",
+   "기상청 단기예보(공공누리 제1유형)"
+  ],
+  "trace": [
+   {
+    "seq": 4,
+    "label": "요청 분석 — plan_save",
+    "elapsed_ms": 1670,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 6,
+    "label": "계획 저장 — 겹침 1건",
+    "elapsed_ms": 0,
+    "is_replan": false,
+    "ok": true
+   }
+  ],
+  "replan_count": 0,
+  "warnings": [],
+  "saved_plan": {
+   "id": 2,
+   "performance_id": "PF306792",
+   "title": "아일랜드",
+   "venue_name": "소극장 플랫폼74",
+   "venue_address": "서울특별시 종로구 동숭길 74 (동숭동)",
+   "date": "2026-11-21",
+   "start_time": "18:00",
+   "end_time": "19:15",
+   "price": 30000,
+   "ticket_url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26016636",
+   "memo": null,
+   "session_id": "s-main",
+   "created_at": "2026-11-20T10:03:56+09:00",
+   "updated_at": "2026-11-20T10:03:56+09:00"
+  },
+  "overlaps": [
+   {
+    "id": 1,
+    "performance_id": "MANUAL",
+    "title": "저녁 약속(직접 입력)",
+    "venue_name": null,
+    "venue_address": null,
+    "date": "2026-11-21",
+    "start_time": "17:00",
+    "end_time": "18:30",
+    "price": null,
+    "ticket_url": null,
+    "memo": null,
+    "session_id": null,
+    "created_at": "2026-11-20T10:03:53+09:00",
+    "updated_at": "2026-11-20T10:03:53+09:00"
+   }
+  ],
+  "elapsed_ms": 1675
+ },
+ "S6": {
+  "session_id": "s-main",
+  "run_id": "r-42c885db2d",
+  "status": "ok",
+  "reply": "조건에 맞는 공연은 2편이고, 가장 먼저 볼 만한 작품은 18:30에 시작하는 '붓다, 세상의 길을 묻다 [대학로]'예요. 이 공연은 20:10에 끝나고 20:57에 망원역에 도착하며, 최저가는 50,000원이에요.",
+  "understood": {
+   "date": "2026-11-21",
+   "start_after": "18:00",
+   "region": "대학로",
+   "genre": "뮤지컬",
+   "home_by": "23:30",
+   "home_location": "망원역",
+   "budget_max": 50000
+  },
+  "defaults_applied": [],
+  "recommendations": [
+   {
+    "performance_id": "PF304765",
+    "title": "붓다, 세상의 길을 묻다 [대학로]",
+    "genre": "뮤지컬",
+    "poster_url": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF304765_261028_163235.gif",
+    "venue": {
+     "name": "후암스테이지",
+     "address": "서울특별시 종로구 대학로11길 23 (명륜4가)",
+     "map_url": "https://map.kakao.com/link/map/%ED%9B%84%EC%95%94%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80,37.5820588,127.0004181"
+    },
+    "date": "2026-11-21",
+    "showtimes": [
+     {
+      "start": "18:30",
+      "end": "20:10",
+      "home_arrival": "20:57",
+      "verdict": "PASS"
+     }
+    ],
+    "min_price": 50000,
+    "price_raw": "전석 50,000원",
+    "age_rating": "만 12세 이상",
+    "ticket_links": [
+     {
+      "name": "놀유니버스",
+      "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26015595"
+     }
+    ],
+    "transit": {
+     "total_min": 37,
+     "summary": "4호선 → 5호선 → 6호선",
+     "map_url": "https://map.kakao.com/link/by/traffic/%EC%B6%9C%EB%B0%9C,37.582059,127.000418/%EB%8F%84%EC%B0%A9,37.556083,126.910094"
+    },
+    "weather": {
+     "status": "ok",
+     "summary": "18시 강수확률 0% · 기온 -2℃",
+     "hours": [
+      {
+       "time": "18:30",
+       "forecast_time": "18:00",
+       "pop": 0,
+       "pty": "없음",
+       "sky": "맑음",
+       "tmp": -2
+      },
+      {
+       "time": "20:10",
+       "forecast_time": "20:00",
+       "pop": 0,
+       "pty": "없음",
+       "sky": "맑음",
+       "tmp": -3
+      },
+      {
+       "time": "20:57",
+       "forecast_time": "21:00",
+       "pop": 0,
+       "pty": "없음",
+       "sky": "맑음",
+       "tmp": -3
+      }
+     ]
+    },
+    "evidence": [
+     "KOPIS 러닝타임 100분",
+     "토 18:30 회차",
+     "최저가 50,000원",
+     "카카오 대중교통 37분",
+     "기상청 단기예보"
+    ]
+   },
+   {
+    "performance_id": "PF303594",
+    "title": "브로큰 넘버스 (BROKEN NUMBERS)",
+    "genre": "뮤지컬",
+    "poster_url": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF303594_261016_134745.jpg",
+    "venue": {
+     "name": "링크더스페이스(LINK THE SPACE)",
+     "address": "서울특별시 종로구 대학로8가길 105 (동숭동)",
+     "map_url": "https://map.kakao.com/link/map/%EB%A7%81%ED%81%AC%EB%8D%94%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4%28LINK%20THE%20SPACE%29,37.581375,127.003527"
+    },
+    "date": "2026-11-21",
+    "showtimes": [
+     {
+      "start": "19:00",
+      "end": "20:40",
+      "home_arrival": "21:27",
+      "verdict": "PASS"
+     }
+    ],
+    "min_price": 44000,
+    "price_raw": "기억석 66,000원, 기록석 55,000원, 존재석 44,000원",
+    "age_rating": "만 7세 이상",
+    "ticket_links": [
+     {
+      "name": "NHN티켓링크",
+      "url": "http://www.ticketlink.co.kr/product/66282"
+     },
+     {
+      "name": "네이버N예약",
+      "url": "https://booking.naver.com/booking/12/bizes/1756533"
+     }
+    ],
+    "transit": {
+     "total_min": 37,
+     "summary": "4호선 → 5호선 → 6호선",
+     "map_url": "https://map.kakao.com/link/by/traffic/%EC%B6%9C%EB%B0%9C,37.581375,127.003527/%EB%8F%84%EC%B0%A9,37.556083,126.910094"
+    },
+    "weather": {
+     "status": "ok",
+     "summary": "19시 강수확률 0% · 기온 -3℃",
+     "hours": [
+      {
+       "time": "19:00",
+       "forecast_time": "19:00",
+       "pop": 0,
+       "pty": "없음",
+       "sky": "맑음",
+       "tmp": -3
+      },
+      {
+       "time": "20:40",
+       "forecast_time": "21:00",
+       "pop": 0,
+       "pty": "없음",
+       "sky": "맑음",
+       "tmp": -3
+      },
+      {
+       "time": "21:27",
+       "forecast_time": "21:00",
+       "pop": 0,
+       "pty": "없음",
+       "sky": "맑음",
+       "tmp": -3
+      }
+     ]
+    },
+    "evidence": [
+     "KOPIS 러닝타임 100분",
+     "토 19:00 회차",
+     "최저가 44,000원",
+     "카카오 대중교통 37분",
+     "기상청 단기예보"
+    ]
+   }
+  ],
+  "excluded": [
+   {
+    "performance_id": "PF304266",
+    "title": "우리의 마지막 순간들 [대학로]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "18:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF303405",
+    "title": "서울어텀페스타, 콰르텟",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "18:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF302368",
+    "title": "요셉전 [대학로]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "18:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF302270",
+    "title": "V 에버 애프터 [대학로]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "18:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF302037",
+    "title": "바울: 사랑으로 걷다 [대학로]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "18:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF301746",
+    "title": "마하고니 [대학로]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "18:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF301565",
+    "title": "FATED [대학로]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "18:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF305735",
+    "title": "언제는 행복하지 않은 순간이 있었나요 (언행순) [서울]",
+    "reason_code": "NOT_DAEHAKRO",
+    "reason": "대학로 공연이 아니에요"
+   }
+  ],
+  "suggestions": [],
+  "facts": null,
+  "assumptions": [
+   "퇴장 여유 10분 포함",
+   "대중교통 시간은 시간대·막차 미반영",
+   "가격·회차는 변동될 수 있으니 예매처에서 최종 확인하세요"
+  ],
+  "sources": [
+   "출처: (재)예술경영지원센터 공연예술통합전산망(www.kopis.or.kr)",
+   "카카오맵",
+   "기상청 단기예보(공공누리 제1유형)"
+  ],
+  "trace": [
+   {
+    "seq": 4,
+    "label": "요청 분석 — plan_request",
+    "elapsed_ms": 3490,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 29,
+    "label": "계획 수립 — LLM 선택 search_performances, search_places + 규칙 보완 · 동시에 후보 선반입: 공연 목록 조회 ×1 · 공연 상세 ×10",
+    "elapsed_ms": 11289,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 39,
+    "label": "Tool 실행 — 공연장 좌표 ×2 · 이동시간 ×2 (후보는 계획 중 선반입)",
+    "elapsed_ms": 3092,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 42,
+    "label": "판정 — 통과 2 / 탈락 7 / 불가 0",
+    "elapsed_ms": 0,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 48,
+    "label": "날씨·지도 추가 — 상위 2편 · 날씨 조회 ×2",
+    "elapsed_ms": 1,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 50,
+    "label": "응답 생성 — LLM 요약",
+    "elapsed_ms": 961,
+    "is_replan": false,
+    "ok": true
+   }
+  ],
+  "replan_count": 0,
+  "warnings": [],
+  "elapsed_ms": 18844
+ },
+ "S2": {
+  "session_id": "s-s2",
+  "run_id": "r-2265fabf59",
+  "status": "ok",
+  "reply": "대학로에서 2026년 11월 21일 19시 이후 시작하고 21시까지 끝나며 30,000원 이하인 연극 3편을 찾았어요. 가장 먼저 볼 만한 작품은 19시에 시작해 20시 40분에 끝나는 「증언의 목소리들」(최저가 15,000원)이에요.",
+  "understood": {
+   "date": "2026-11-21",
+   "start_after": "19:00",
+   "region": "대학로",
+   "genre": "연극",
+   "end_by": "21:00",
+   "budget_max": 30000
+  },
+  "defaults_applied": [],
+  "recommendations": [
+   {
+    "performance_id": "PF305818",
+    "title": "증언의 목소리들",
+    "genre": "연극",
+    "poster_url": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF305818_261109_150230.gif",
+    "venue": {
+     "name": "창작공간 BBB",
+     "address": "서울특별시 종로구 이화장길 46 (이화동)",
+     "map_url": "https://map.kakao.com/link/map/%EC%B0%BD%EC%9E%91%EA%B3%B5%EA%B0%84%20BBB,37.577362,127.004709"
+    },
+    "date": "2026-11-21",
+    "showtimes": [
+     {
+      "start": "19:00",
+      "end": "20:40",
+      "home_arrival": null,
+      "verdict": "PASS"
+     }
+    ],
+    "min_price": 15000,
+    "price_raw": "전석 15,000원",
+    "age_rating": "만 6세 이상",
+    "ticket_links": [
+     {
+      "name": "놀유니버스",
+      "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26016033"
+     }
+    ],
+    "transit": null,
+    "weather": {
+     "status": "ok",
+     "summary": "19시 강수확률 0% · 기온 -3℃",
+     "hours": [
+      {
+       "time": "19:00",
+       "forecast_time": "19:00",
+       "pop": 0,
+       "pty": "없음",
+       "sky": "맑음",
+       "tmp": -3
+      },
+      {
+       "time": "20:40",
+       "forecast_time": "21:00",
+       "pop": 0,
+       "pty": "없음",
+       "sky": "맑음",
+       "tmp": -3
+      }
+     ]
+    },
+    "evidence": [
+     "KOPIS 러닝타임 100분",
+     "토 19:00 회차",
+     "최저가 15,000원",
+     "기상청 단기예보"
+    ]
+   },
+   {
+    "performance_id": "PF305998",
+    "title": "한국마임: 언제 어디서나 마임",
+    "genre": "연극",
+    "poster_url": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF305998_261110_145605.gif",
+    "venue": {
+     "name": "봄날아트홀 (구. 아리랑소극장)",
+     "address": "서울특별시 종로구 동숭길 39 (동숭동)",
+     "map_url": "https://map.kakao.com/link/map/%EB%B4%84%EB%82%A0%EC%95%84%ED%8A%B8%ED%99%80%20%28%EA%B5%AC.%20%EC%95%84%EB%A6%AC%EB%9E%91%EC%86%8C%EA%B7%B9%EC%9E%A5%29,37.5799517,127.00425100000007"
+    },
+    "date": "2026-11-21",
+    "showtimes": [
+     {
+      "start": "19:00",
+      "end": "20:10",
+      "home_arrival": null,
+      "verdict": "PASS"
+     }
+    ],
+    "min_price": 20000,
+    "price_raw": "전석 20,000원",
+    "age_rating": "전체 관람가",
+    "ticket_links": [
+     {
+      "name": "놀유니버스",
+      "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26015971"
+     }
+    ],
+    "transit": null,
+    "weather": {
+     "status": "ok",
+     "summary": "19시 강수확률 0% · 기온 -3℃",
+     "hours": [
+      {
+       "time": "19:00",
+       "forecast_time": "19:00",
+       "pop": 0,
+       "pty": "없음",
+       "sky": "맑음",
+       "tmp": -3
+      },
+      {
+       "time": "20:10",
+       "forecast_time": "20:00",
+       "pop": 0,
+       "pty": "없음",
+       "sky": "맑음",
+       "tmp": -3
+      }
+     ]
+    },
+    "evidence": [
+     "KOPIS 러닝타임 70분",
+     "토 19:00 회차",
+     "최저가 20,000원",
+     "기상청 단기예보"
+    ]
+   },
+   {
+    "performance_id": "PF305857",
+    "title": "오나리스 [서울]",
+    "genre": "연극",
+    "poster_url": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF305857_261109_161727.png",
+    "venue": {
+     "name": "북극곰소극장",
+     "address": "서울특별시 종로구 이화장1길 24 (이화동)",
+     "map_url": "https://map.kakao.com/link/map/%EB%B6%81%EA%B7%B9%EA%B3%B0%EC%86%8C%EA%B7%B9%EC%9E%A5,37.5773694,127.00575709999998"
+    },
+    "date": "2026-11-21",
+    "showtimes": [
+     {
+      "start": "19:30",
+      "end": "20:45",
+      "home_arrival": null,
+      "verdict": "PASS"
+     }
+    ],
+    "min_price": 15000,
+    "price_raw": "전석 15,000원",
+    "age_rating": "만 16세 이상",
+    "ticket_links": [
+     {
+      "name": "플레이티켓",
+      "url": "http://playticket.co.kr/nav/detail.html?idx=4772"
+     }
+    ],
+    "transit": null,
+    "weather": {
+     "status": "ok",
+     "summary": "19시 강수확률 0% · 기온 -3℃",
+     "hours": [
+      {
+       "time": "19:30",
+       "forecast_time": "19:00",
+       "pop": 0,
+       "pty": "없음",
+       "sky": "맑음",
+       "tmp": -3
+      },
+      {
+       "time": "20:45",
+       "forecast_time": "21:00",
+       "pop": 0,
+       "pty": "없음",
+       "sky": "맑음",
+       "tmp": -3
+      }
+     ]
+    },
+    "evidence": [
+     "KOPIS 러닝타임 75분",
+     "토 19:30 회차",
+     "최저가 15,000원",
+     "기상청 단기예보"
+    ]
+   }
+  ],
+  "excluded": [
+   {
+    "performance_id": "PF306792",
+    "title": "아일랜드",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "19:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF306557",
+    "title": "제3회 연문페스티벌, 복덕방",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "19:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF306527",
+    "title": "없는 대화",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "19:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF306452",
+    "title": "모든 날, 모든 순간 [대학로]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "19:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF305847",
+    "title": "엄마와 아들: 아들, 엄마도 처음이야! [대학로]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "19:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF305551",
+    "title": "모든 날 모든 순간",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "19:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF305990",
+    "title": "플레이티켓 낭독쇼케이스, 낙차 (11월)",
+    "reason_code": "NOT_DAEHAKRO",
+    "reason": "대학로 공연이 아니에요"
+   }
+  ],
+  "suggestions": [],
+  "facts": null,
+  "assumptions": [
+   "가격·회차는 변동될 수 있으니 예매처에서 최종 확인하세요"
+  ],
+  "sources": [
+   "출처: (재)예술경영지원센터 공연예술통합전산망(www.kopis.or.kr)",
+   "카카오맵",
+   "기상청 단기예보(공공누리 제1유형)"
+  ],
+  "trace": [
+   {
+    "seq": 4,
+    "label": "요청 분석 — plan_request",
+    "elapsed_ms": 2870,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 29,
+    "label": "계획 수립 — LLM 선택 search_performances + 규칙 보완 · 동시에 후보 선반입: 공연 목록 조회 ×1 · 공연 상세 ×10",
+    "elapsed_ms": 3069,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 31,
+    "label": "Tool 실행 — 상세 9건 (계획 중 선반입)",
+    "elapsed_ms": 0,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 34,
+    "label": "판정 — 통과 3 / 탈락 6 / 불가 0",
+    "elapsed_ms": 0,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 48,
+    "label": "날씨·지도 추가 — 상위 3편 · 공연장 좌표 ×3 · 날씨 조회 ×3",
+    "elapsed_ms": 2,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 50,
+    "label": "응답 생성 — LLM 요약",
+    "elapsed_ms": 971,
+    "is_replan": false,
+    "ok": true
+   }
+  ],
+  "replan_count": 0,
+  "warnings": [],
+  "elapsed_ms": 6921
+ },
+ "S2′": {
+  "session_id": "s-s2b",
+  "run_id": "r-6a02f07807",
+  "status": "ok",
+  "reply": "대학로에서 2026년 11월 21일 19:00 이후에 시작하는 연극 중 조건에 맞는 공연은 1편이 추천되었어요. 가장 먼저 볼 만한 작품은 '설강화 [대학로]'로, 19:00에 시작해 20:40에 끝나고 최저가는 10,000원이에요.",
+  "understood": {
+   "date": "2026-11-21",
+   "start_after": "19:00",
+   "region": "대학로",
+   "genre": "연극",
+   "end_by": "21:00",
+   "budget_max": 10000
+  },
+  "defaults_applied": [],
+  "recommendations": [
+   {
+    "performance_id": "PF304882",
+    "title": "설강화 [대학로]",
+    "genre": "연극",
+    "poster_url": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF304882_261030_104339.jpg",
+    "venue": {
+     "name": "큐씨어터(구. 수상한흥신소전용관)",
+     "address": "서울특별시 종로구 대학로8가길 79 (동숭동)",
+     "map_url": "https://map.kakao.com/link/map/%ED%81%90%EC%94%A8%EC%96%B4%ED%84%B0%28%EA%B5%AC.%20%EC%88%98%EC%83%81%ED%95%9C%ED%9D%A5%EC%8B%A0%EC%86%8C%EC%A0%84%EC%9A%A9%EA%B4%80%29,37.5824389,127.00354530000004"
+    },
+    "date": "2026-11-21",
+    "showtimes": [
+     {
+      "start": "19:00",
+      "end": "20:40",
+      "home_arrival": null,
+      "verdict": "PASS"
+     }
+    ],
+    "min_price": 10000,
+    "price_raw": "R석 60,000원, S석 50,000원, 시야방해석  30,000원, 관찰일지석  10,000원",
+    "age_rating": "만 16세 이상",
+    "ticket_links": [
+     {
+      "name": "NHN티켓링크",
+      "url": "http://www.ticketlink.co.kr/product/66592"
+     },
+     {
+      "name": "네이버N예약",
+      "url": "https://booking.naver.com/booking/12/bizes/1767277"
+     },
+     {
+      "name": "예스24",
+      "url": "https://ticket.yes24.com/Perf/60862"
+     }
+    ],
+    "transit": null,
+    "weather": {
+     "status": "ok",
+     "summary": "19시 강수확률 0% · 기온 -3℃",
+     "hours": [
+      {
+       "time": "19:00",
+       "forecast_time": "19:00",
+       "pop": 0,
+       "pty": "없음",
+       "sky": "맑음",
+       "tmp": -3
+      },
+      {
+       "time": "20:40",
+       "forecast_time": "21:00",
+       "pop": 0,
+       "pty": "없음",
+       "sky": "맑음",
+       "tmp": -3
+      }
+     ]
+    },
+    "evidence": [
+     "KOPIS 러닝타임 100분",
+     "토 19:00 회차",
+     "최저가 10,000원",
+     "기상청 단기예보"
+    ]
+   }
+  ],
+  "excluded": [
+   {
+    "performance_id": "PF306792",
+    "title": "아일랜드",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "19:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF306557",
+    "title": "제3회 연문페스티벌, 복덕방",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "19:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF306527",
+    "title": "없는 대화",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "19:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF306452",
+    "title": "모든 날, 모든 순간 [대학로]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "19:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF305998",
+    "title": "한국마임: 언제 어디서나 마임",
+    "reason_code": "OVER_BUDGET",
+    "reason": "최저가 20,000원이 예산(10,000원)을 넘어요"
+   },
+   {
+    "performance_id": "PF305857",
+    "title": "오나리스 [서울]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "19:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF305847",
+    "title": "엄마와 아들: 아들, 엄마도 처음이야! [대학로]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "19:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF305818",
+    "title": "증언의 목소리들",
+    "reason_code": "OVER_BUDGET",
+    "reason": "최저가 15,000원이 예산(10,000원)을 넘어요"
+   },
+   {
+    "performance_id": "PF305551",
+    "title": "모든 날 모든 순간",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "19:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF305235",
+    "title": "혜화동1번지 동인 페스티벌, 지역 대축제: 혜화동 콩집",
+    "reason_code": "END_TOO_LATE",
+    "reason": "21:00까지 끝나는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF305147",
+    "title": "제2회 N뮤즈페스티벌, 쨍히 빛나는 태양이 매일 걸려있으면 좋겠다",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "19:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF304896",
+    "title": "구룡채성",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "19:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF304832",
+    "title": "THE CELL: 더 셀 [대학로]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "19:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF304824",
+    "title": "연출가 故김태수 1주기 추모연극제, 문득 멈춰서서 이야기하다",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "19:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF304787",
+    "title": "보부상을 기다리며 [대학로]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "19:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF304750",
+    "title": "올모스트 메인 [대학로]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "19:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF304591",
+    "title": "말숙과 해미와 눈 [대학로]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "19:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF305990",
+    "title": "플레이티켓 낭독쇼케이스, 낙차 (11월)",
+    "reason_code": "NOT_DAEHAKRO",
+    "reason": "대학로 공연이 아니에요"
+   },
+   {
+    "performance_id": "PF305411",
+    "title": "운명",
+    "reason_code": "NOT_DAEHAKRO",
+    "reason": "대학로 공연이 아니에요"
+   }
+  ],
+  "suggestions": [],
+  "facts": null,
+  "assumptions": [
+   "가격·회차는 변동될 수 있으니 예매처에서 최종 확인하세요"
+  ],
+  "sources": [
+   "출처: (재)예술경영지원센터 공연예술통합전산망(www.kopis.or.kr)",
+   "카카오맵",
+   "기상청 단기예보(공공누리 제1유형)"
+  ],
+  "trace": [
+   {
+    "seq": 4,
+    "label": "요청 분석 — plan_request",
+    "elapsed_ms": 1709,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 29,
+    "label": "계획 수립 — LLM 선택 search_performances, get_performance_detail + 규칙 보완 · 동시에 후보 선반입: 공연 목록 조회 ×1 · 공연 상세 ×10",
+    "elapsed_ms": 2770,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 31,
+    "label": "Tool 실행 — 상세 9건 (계획 중 선반입)",
+    "elapsed_ms": 0,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 34,
+    "label": "판정 — 통과 0 / 탈락 9 / 불가 0",
+    "elapsed_ms": 0,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 37,
+    "label": "재계획 — 1회 R1 10",
+    "elapsed_ms": 0,
+    "is_replan": true,
+    "ok": true
+   },
+   {
+    "seq": 39,
+    "label": "계획 수립 — 규칙 템플릿(재계획)",
+    "elapsed_ms": 0,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 61,
+    "label": "Tool 실행 — 공연 상세 ×10",
+    "elapsed_ms": 7378,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 64,
+    "label": "판정 — 통과 1 / 탈락 17 / 불가 0",
+    "elapsed_ms": 0,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 70,
+    "label": "날씨·지도 추가 — 상위 1편 · 공연장 좌표 ×1 · 날씨 조회 ×1",
+    "elapsed_ms": 2203,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 72,
+    "label": "응답 생성 — LLM 요약",
+    "elapsed_ms": 1070,
+    "is_replan": false,
+    "ok": true
+   }
+  ],
+  "replan_count": 1,
+  "warnings": [],
+  "elapsed_ms": 15147
+ },
+ "S3": {
+  "session_id": "s-s3",
+  "run_id": "r-6da5cc897c",
+  "status": "limit_reached",
+  "reply": "조건에 맞는 공연을 찾지 못했어요 (재계획 3회).\n탈락 40편: 시작 시각 이전 39 · 그 요일 공연 없음 1\n조건을 바꿔 볼까요?",
+  "understood": {
+   "date": "2026-11-21",
+   "start_after": "22:00",
+   "genre": "뮤지컬",
+   "budget_max": 20000
+  },
+  "defaults_applied": [],
+  "recommendations": [],
+  "excluded": [
+   {
+    "performance_id": "PF305735",
+    "title": "언제는 행복하지 않은 순간이 있었나요 (언행순) [서울]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "22:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF305142",
+    "title": "인사이드 더 플레이 : 카지노X",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "22:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF304765",
+    "title": "붓다, 세상의 길을 묻다 [대학로]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "22:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF304512",
+    "title": "김동완의 뮤지컬 콘서트",
+    "reason_code": "NO_SHOW_ON_DAY",
+    "reason": "그 요일에는 공연이 없어요"
+   },
+   {
+    "performance_id": "PF304266",
+    "title": "우리의 마지막 순간들 [대학로]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "22:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF303893",
+    "title": "눈의 여왕 [서울 금천]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "22:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF303594",
+    "title": "브로큰 넘버스 (BROKEN NUMBERS)",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "22:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF303405",
+    "title": "서울어텀페스타, 콰르텟",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "22:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF303276",
+    "title": "사의찬미 [서울 영등포]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "22:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF303127",
+    "title": "플릭스! (Musical FLIX!)",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "22:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF302888",
+    "title": "티시 태시",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "22:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF302626",
+    "title": "톡톡 라이브쇼, 헬로카봇: 카봇크루가 되어줘! [서울 마포]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "22:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF302368",
+    "title": "요셉전 [대학로]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "22:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF302270",
+    "title": "V 에버 애프터 [대학로]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "22:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF302037",
+    "title": "바울: 사랑으로 걷다 [대학로]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "22:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF301746",
+    "title": "마하고니 [대학로]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "22:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF301634",
+    "title": "정신병동에도 아침이 와요",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "22:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF301565",
+    "title": "FATED [대학로]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "22:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF301308",
+    "title": "하트비트: 심폐소생일지 [대학로]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "22:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF301113",
+    "title": "조선 마법사관 진준",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "22:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF300974",
+    "title": "두 도시 이야기",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "22:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF300941",
+    "title": "사춘기 [대학로]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "22:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF300886",
+    "title": "백설공주 [서울 강북]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "22:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF300790",
+    "title": "쇼 머스트 고 온 in 대학로",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "22:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF300598",
+    "title": "수레바퀴 아래서 [대학로]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "22:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF299855",
+    "title": "이끼숲",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "22:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF299783",
+    "title": "호두까기 인형 [서울 구로]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "22:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF299373",
+    "title": "호두까기 인형 [서울 구로]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "22:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF299346",
+    "title": "렛미플라이 [서울]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "22:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF299302",
+    "title": "호두까기 인형 [서울 양천]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "22:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF298792",
+    "title": "섬: 1933~2019",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "22:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF298593",
+    "title": "아나키스트 [대학로]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "22:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF298171",
+    "title": "오셀로와 이아고 [대학로]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "22:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF298163",
+    "title": "연의 편지 [대학로]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "22:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF298148",
+    "title": "오즈의 크리스마스 [서울 송파]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "22:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF298032",
+    "title": "난세: 정도전과 이방원의 이야기 [대학로]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "22:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF297912",
+    "title": "곤 투모로우 [대학로]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "22:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF297794",
+    "title": "엠. 버터플라이",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "22:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF297712",
+    "title": "잔혹동화 생존기 [대학로]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "22:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF296265",
+    "title": "옹알스 [대학로]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "22:00 이후에 시작하는 회차가 없어요"
+   }
+  ],
+  "suggestions": [
+   {
+    "field": "start_after",
+    "value": "16:00",
+    "count": 1,
+    "text": "시작 시각을 16:00 이후로 당기면 1편이 가능해요."
+   }
+  ],
+  "facts": null,
+  "assumptions": [
+   "가격·회차는 변동될 수 있으니 예매처에서 최종 확인하세요"
+  ],
+  "sources": [
+   "출처: (재)예술경영지원센터 공연예술통합전산망(www.kopis.or.kr)",
+   "카카오맵",
+   "기상청 단기예보(공공누리 제1유형)"
+  ],
+  "trace": [
+   {
+    "seq": 4,
+    "label": "요청 분석 — plan_request",
+    "elapsed_ms": 2423,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 29,
+    "label": "계획 수립 — LLM 선택 search_performances + 규칙 보완 · 동시에 후보 선반입: 공연 목록 조회 ×1 · 공연 상세 ×10",
+    "elapsed_ms": 7556,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 31,
+    "label": "Tool 실행 — 상세 10건 (계획 중 선반입)",
+    "elapsed_ms": 0,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 34,
+    "label": "판정 — 통과 0 / 탈락 10 / 불가 0",
+    "elapsed_ms": 0,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 37,
+    "label": "재계획 — 1회 R1 10",
+    "elapsed_ms": 0,
+    "is_replan": true,
+    "ok": true
+   },
+   {
+    "seq": 39,
+    "label": "계획 수립 — 규칙 템플릿(재계획)",
+    "elapsed_ms": 0,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 61,
+    "label": "Tool 실행 — 공연 상세 ×10",
+    "elapsed_ms": 5176,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 64,
+    "label": "판정 — 통과 0 / 탈락 20 / 불가 0",
+    "elapsed_ms": 0,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 67,
+    "label": "재계획 — 2회 R1 2",
+    "elapsed_ms": 0,
+    "is_replan": true,
+    "ok": true
+   },
+   {
+    "seq": 69,
+    "label": "계획 수립 — 규칙 템플릿(재계획)",
+    "elapsed_ms": 0,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 93,
+    "label": "Tool 실행 — 공연 목록 조회 ×1 · 공연 상세 ×10",
+    "elapsed_ms": 12003,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 96,
+    "label": "판정 — 통과 0 / 탈락 30 / 불가 0",
+    "elapsed_ms": 0,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 99,
+    "label": "재계획 — 3회 R1 10",
+    "elapsed_ms": 0,
+    "is_replan": true,
+    "ok": true
+   },
+   {
+    "seq": 101,
+    "label": "계획 수립 — 규칙 템플릿(재계획)",
+    "elapsed_ms": 0,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 123,
+    "label": "Tool 실행 — 공연 상세 ×10",
+    "elapsed_ms": 8664,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 127,
+    "label": "판정 — 통과 0 / 탈락 40 / 불가 0 · 재계획 중단(limit)",
+    "elapsed_ms": 0,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 129,
+    "label": "응답 생성 — 템플릿",
+    "elapsed_ms": 0,
+    "is_replan": false,
+    "ok": true
+   }
+  ],
+  "replan_count": 3,
+  "warnings": [],
+  "elapsed_ms": 35848
+ },
+ "S4": {
+  "session_id": "s-s4",
+  "run_id": "r-07e7728214",
+  "status": "ok",
+  "reply": "조건에 맞는 공연 5편을 찾았고, 가장 먼저 볼 만한 작품으로는 \"아일랜드\"를 추천해요. 18:00에 시작해 19:15에 끝나고 23:30 전에 망원역에 도착할 수 있으며, 최저가는 30,000원이에요.",
+  "understood": {
+   "date": "2026-11-21",
+   "start_after": "18:00",
+   "region": "대학로",
+   "genre": "연극",
+   "home_by": "23:30",
+   "home_location": "망원역"
+  },
+  "defaults_applied": [],
+  "recommendations": [
+   {
+    "performance_id": "PF306792",
+    "title": "아일랜드",
+    "genre": "연극",
+    "poster_url": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF306792_261118_123938.gif",
+    "venue": {
+     "name": "소극장 플랫폼74",
+     "address": "서울특별시 종로구 동숭길 74 (동숭동)",
+     "map_url": "https://map.kakao.com/link/map/%EC%86%8C%EA%B7%B9%EC%9E%A5%20%ED%94%8C%EB%9E%AB%ED%8F%BC74,37.5815333,127.0043015"
+    },
+    "date": "2026-11-21",
+    "showtimes": [
+     {
+      "start": "18:00",
+      "end": "19:15",
+      "home_arrival": "20:03",
+      "verdict": "PASS"
+     }
+    ],
+    "min_price": 30000,
+    "price_raw": "전석 30,000원",
+    "age_rating": "15세 이상",
+    "ticket_links": [
+     {
+      "name": "놀유니버스",
+      "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26016636"
+     }
+    ],
+    "transit": {
+     "total_min": 38,
+     "summary": "4호선 → 5호선 → 6호선",
+     "map_url": "https://map.kakao.com/link/by/traffic/%EC%B6%9C%EB%B0%9C,37.581533,127.004302/%EB%8F%84%EC%B0%A9,37.556083,126.910094"
+    },
+    "weather": {
+     "status": "unavailable",
+     "summary": null
+    },
+    "evidence": [
+     "KOPIS 러닝타임 75분",
+     "토 18:00 회차",
+     "최저가 30,000원",
+     "카카오 대중교통 38분"
+    ]
+   },
+   {
+    "performance_id": "PF305818",
+    "title": "증언의 목소리들",
+    "genre": "연극",
+    "poster_url": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF305818_261109_150230.gif",
+    "venue": {
+     "name": "창작공간 BBB",
+     "address": "서울특별시 종로구 이화장길 46 (이화동)",
+     "map_url": "https://map.kakao.com/link/map/%EC%B0%BD%EC%9E%91%EA%B3%B5%EA%B0%84%20BBB,37.577362,127.004709"
+    },
+    "date": "2026-11-21",
+    "showtimes": [
+     {
+      "start": "19:00",
+      "end": "20:40",
+      "home_arrival": "21:31",
+      "verdict": "PASS"
+     }
+    ],
+    "min_price": 15000,
+    "price_raw": "전석 15,000원",
+    "age_rating": "만 6세 이상",
+    "ticket_links": [
+     {
+      "name": "놀유니버스",
+      "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26016033"
+     }
+    ],
+    "transit": {
+     "total_min": 41,
+     "summary": "301 → 4호선 → 6호선",
+     "map_url": "https://map.kakao.com/link/by/traffic/%EC%B6%9C%EB%B0%9C,37.577362,127.004709/%EB%8F%84%EC%B0%A9,37.556083,126.910094"
+    },
+    "weather": {
+     "status": "unavailable",
+     "summary": null
+    },
+    "evidence": [
+     "KOPIS 러닝타임 100분",
+     "토 19:00 회차",
+     "최저가 15,000원",
+     "카카오 대중교통 41분"
+    ]
+   },
+   {
+    "performance_id": "PF305998",
+    "title": "한국마임: 언제 어디서나 마임",
+    "genre": "연극",
+    "poster_url": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF305998_261110_145605.gif",
+    "venue": {
+     "name": "봄날아트홀 (구. 아리랑소극장)",
+     "address": "서울특별시 종로구 동숭길 39 (동숭동)",
+     "map_url": "https://map.kakao.com/link/map/%EB%B4%84%EB%82%A0%EC%95%84%ED%8A%B8%ED%99%80%20%28%EA%B5%AC.%20%EC%95%84%EB%A6%AC%EB%9E%91%EC%86%8C%EA%B7%B9%EC%9E%A5%29,37.5799517,127.00425100000007"
+    },
+    "date": "2026-11-21",
+    "showtimes": [
+     {
+      "start": "19:00",
+      "end": "20:10",
+      "home_arrival": "20:59",
+      "verdict": "PASS"
+     }
+    ],
+    "min_price": 20000,
+    "price_raw": "전석 20,000원",
+    "age_rating": "전체 관람가",
+    "ticket_links": [
+     {
+      "name": "놀유니버스",
+      "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26015971"
+     }
+    ],
+    "transit": {
+     "total_min": 39,
+     "summary": "4호선 → 5호선 → 6호선",
+     "map_url": "https://map.kakao.com/link/by/traffic/%EC%B6%9C%EB%B0%9C,37.579952,127.004251/%EB%8F%84%EC%B0%A9,37.556083,126.910094"
+    },
+    "weather": {
+     "status": "unavailable",
+     "summary": null
+    },
+    "evidence": [
+     "KOPIS 러닝타임 70분",
+     "토 19:00 회차",
+     "최저가 20,000원",
+     "카카오 대중교통 39분"
+    ]
+   },
+   {
+    "performance_id": "PF306527",
+    "title": "없는 대화",
+    "genre": "연극",
+    "poster_url": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF306527_261116_143307.gif",
+    "venue": {
+     "name": "제이원 씨어터 (구. 서완소극장, 구. 씨어터고리)",
+     "address": "서울특별시 종로구 창경궁로34길 18-12",
+     "map_url": "https://map.kakao.com/link/map/%EC%A0%9C%EC%9D%B4%EC%9B%90%20%EC%94%A8%EC%96%B4%ED%84%B0%20%28%EA%B5%AC.%20%EC%84%9C%EC%99%84%EC%86%8C%EA%B7%B9%EC%9E%A5%2C%20%EA%B5%AC.%20%EC%94%A8%EC%96%B4%ED%84%B0%EA%B3%A0%EB%A6%AC%29,37.5841705,127.00042899999994"
+    },
+    "date": "2026-11-21",
+    "showtimes": [
+     {
+      "start": "19:00",
+      "end": "20:40",
+      "home_arrival": "21:28",
+      "verdict": "PASS"
+     }
+    ],
+    "min_price": 40000,
+    "price_raw": "전석 40,000원",
+    "age_rating": "만 12세 이상",
+    "ticket_links": [
+     {
+      "name": "놀유니버스",
+      "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26016438"
+     }
+    ],
+    "transit": {
+     "total_min": 38,
+     "summary": "4호선 → 5호선 → 6호선",
+     "map_url": "https://map.kakao.com/link/by/traffic/%EC%B6%9C%EB%B0%9C,37.584171,127.000429/%EB%8F%84%EC%B0%A9,37.556083,126.910094"
+    },
+    "weather": {
+     "status": "unavailable",
+     "summary": null
+    },
+    "evidence": [
+     "KOPIS 러닝타임 100분",
+     "토 19:00 회차",
+     "최저가 40,000원",
+     "카카오 대중교통 38분"
+    ]
+   },
+   {
+    "performance_id": "PF305857",
+    "title": "오나리스 [서울]",
+    "genre": "연극",
+    "poster_url": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF305857_261109_161727.png",
+    "venue": {
+     "name": "북극곰소극장",
+     "address": "서울특별시 종로구 이화장1길 24 (이화동)",
+     "map_url": "https://map.kakao.com/link/map/%EB%B6%81%EA%B7%B9%EA%B3%B0%EC%86%8C%EA%B7%B9%EC%9E%A5,37.5773694,127.00575709999998"
+    },
+    "date": "2026-11-21",
+    "showtimes": [
+     {
+      "start": "19:30",
+      "end": "20:45",
+      "home_arrival": "21:37",
+      "verdict": "PASS"
+     }
+    ],
+    "min_price": 15000,
+    "price_raw": "전석 15,000원",
+    "age_rating": "만 16세 이상",
+    "ticket_links": [
+     {
+      "name": "플레이티켓",
+      "url": "http://playticket.co.kr/nav/detail.html?idx=4772"
+     }
+    ],
+    "transit": {
+     "total_min": 42,
+     "summary": "301 → 4호선 → 6호선",
+     "map_url": "https://map.kakao.com/link/by/traffic/%EC%B6%9C%EB%B0%9C,37.577369,127.005757/%EB%8F%84%EC%B0%A9,37.556083,126.910094"
+    },
+    "weather": {
+     "status": "unavailable",
+     "summary": null
+    },
+    "evidence": [
+     "KOPIS 러닝타임 75분",
+     "토 19:30 회차",
+     "최저가 15,000원",
+     "카카오 대중교통 42분"
+    ]
+   }
+  ],
+  "excluded": [
+   {
+    "performance_id": "PF306557",
+    "title": "제3회 연문페스티벌, 복덕방",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "18:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF306452",
+    "title": "모든 날, 모든 순간 [대학로]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "18:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF305847",
+    "title": "엄마와 아들: 아들, 엄마도 처음이야! [대학로]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "18:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF305551",
+    "title": "모든 날 모든 순간",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "18:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF305990",
+    "title": "플레이티켓 낭독쇼케이스, 낙차 (11월)",
+    "reason_code": "NOT_DAEHAKRO",
+    "reason": "대학로 공연이 아니에요"
+   }
+  ],
+  "suggestions": [],
+  "facts": null,
+  "assumptions": [
+   "퇴장 여유 10분 포함",
+   "대중교통 시간은 시간대·막차 미반영",
+   "가격·회차는 변동될 수 있으니 예매처에서 최종 확인하세요"
+  ],
+  "sources": [
+   "출처: (재)예술경영지원센터 공연예술통합전산망(www.kopis.or.kr)",
+   "카카오맵",
+   "기상청 단기예보(공공누리 제1유형)"
+  ],
+  "trace": [
+   {
+    "seq": 4,
+    "label": "요청 분석 — plan_request",
+    "elapsed_ms": 2566,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 29,
+    "label": "계획 수립 — LLM 선택 search_performances, search_places + 규칙 보완 · 동시에 후보 선반입: 공연 목록 조회 ×1 · 공연 상세 ×10",
+    "elapsed_ms": 2295,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 53,
+    "label": "Tool 실행 — 공연장 좌표 ×5 · 장소 검색 ×1 · 이동시간 ×5 (후보는 계획 중 선반입)",
+    "elapsed_ms": 3,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 56,
+    "label": "판정 — 통과 5 / 탈락 4 / 불가 0",
+    "elapsed_ms": 0,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 60,
+    "label": "날씨·지도 추가 — 상위 5편 · 날씨 조회 ×1",
+    "elapsed_ms": 0,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 60,
+    "label": "날씨 조회 실패 (MISSING_API_KEY)",
+    "elapsed_ms": null,
+    "is_replan": false,
+    "ok": false
+   },
+   {
+    "seq": 62,
+    "label": "응답 생성 — LLM 요약",
+    "elapsed_ms": 915,
+    "is_replan": false,
+    "ok": true
+   }
+  ],
+  "replan_count": 0,
+  "warnings": [
+   {
+    "code": "MISSING_API_KEY",
+    "service": "기상청",
+    "message": "기상청 서비스키가 설정되지 않았어요."
+   }
+  ],
+  "elapsed_ms": 5790
+ },
+ "S5": {
+  "session_id": "s-s5",
+  "run_id": "r-ea32afbe0b",
+  "status": "ok",
+  "reply": "안녕하세요! 커튼콜 플래너는 시간·예산·귀가 조건에 맞는 공연과 회차를 찾아 드려요.\n이렇게 말해 보세요:\n· “11월 21일 토요일 저녁 6시 이후 대학로 연극, 밤 11시 반까지 망원역 도착, 5만원 이하”\n· “같은 날 뮤지컬로 바꿔줘” (나머지 조건은 그대로 유지돼요)\n· “1번 저장해줘” → [내 관람 계획]에서 확인·수정할 수 있어요",
+  "understood": {},
+  "defaults_applied": [],
+  "recommendations": [],
+  "excluded": [],
+  "suggestions": [],
+  "facts": null,
+  "assumptions": [],
+  "sources": [
+   "출처: (재)예술경영지원센터 공연예술통합전산망(www.kopis.or.kr)",
+   "카카오맵",
+   "기상청 단기예보(공공누리 제1유형)"
+  ],
+  "trace": [
+   {
+    "seq": 4,
+    "label": "요청 분석 — chitchat",
+    "elapsed_ms": 1524,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 6,
+    "label": "간단 응답 — Tool 0회",
+    "elapsed_ms": 0,
+    "is_replan": false,
+    "ok": true
+   }
+  ],
+  "replan_count": 0,
+  "warnings": [],
+  "elapsed_ms": 1527
+ },
+ "S7": {
+  "session_id": "s-s7",
+  "run_id": "r-493fa66eb3",
+  "status": "ok",
+  "reply": "**아일랜드**는 2026년 11월 19일부터 22일까지 소극장 플랫폼74에서 공연해요. 러닝타임은 1시간 15분이고, 관람 연령은 15세 이상이며, 가격은 전석 30,000원이에요.",
+  "understood": {
+   "keyword": "아일랜드"
+  },
+  "defaults_applied": [],
+  "recommendations": [],
+  "excluded": [],
+  "suggestions": [],
+  "facts": {
+   "found": true,
+   "performance_id": "PF306792",
+   "title": "아일랜드",
+   "runtime_min": 75,
+   "runtime_raw": "1시간 15분",
+   "age_rating": "15세 이상",
+   "venue_name": "소극장 플랫폼74 (소극장 플랫폼74)",
+   "period": "2026-11-19 ~ 2026-11-22",
+   "schedule_raw": "목요일 ~ 금요일(19:30), 토요일(15:00,18:00), 일요일(15:00)",
+   "price_raw": "전석 30,000원",
+   "issues": []
+  },
+  "assumptions": [
+   "가격·회차는 변동될 수 있으니 예매처에서 최종 확인하세요"
+  ],
+  "sources": [
+   "출처: (재)예술경영지원센터 공연예술통합전산망(www.kopis.or.kr)",
+   "카카오맵",
+   "기상청 단기예보(공공누리 제1유형)"
+  ],
+  "trace": [
+   {
+    "seq": 4,
+    "label": "요청 분석 — fact_query",
+    "elapsed_ms": 1784,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 7,
+    "label": "계획 수립 — LLM 선택 search_performances, get_performance_detail",
+    "elapsed_ms": 1996,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 13,
+    "label": "Tool 실행 — 아일랜드 · 공연 목록 조회 ×1 · 공연 상세 ×1",
+    "elapsed_ms": 1810,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 15,
+    "label": "응답 생성 — LLM 요약",
+    "elapsed_ms": 1665,
+    "is_replan": false,
+    "ok": true
+   }
+  ],
+  "replan_count": 0,
+  "warnings": [],
+  "elapsed_ms": 7264
+ },
+ "S8": {
+  "session_id": "s-s8",
+  "run_id": "r-8c8a59eb80",
+  "status": "clarify",
+  "reply": "귀가 시간을 계산하려면 집(또는 도착할 곳) 위치가 필요해요. 어디로 가시나요? (예: 망원역)",
+  "understood": {
+   "date": "2026-11-21",
+   "genre": "연극",
+   "home_by": "23:30"
+  },
+  "defaults_applied": [],
+  "recommendations": [],
+  "excluded": [],
+  "suggestions": [],
+  "facts": null,
+  "assumptions": [],
+  "sources": [
+   "출처: (재)예술경영지원센터 공연예술통합전산망(www.kopis.or.kr)",
+   "카카오맵",
+   "기상청 단기예보(공공누리 제1유형)"
+  ],
+  "trace": [
+   {
+    "seq": 4,
+    "label": "요청 분석 — plan_request",
+    "elapsed_ms": 2739,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 6,
+    "label": "되묻기 — Tool 호출 전",
+    "elapsed_ms": 0,
+    "is_replan": false,
+    "ok": true
+   }
+  ],
+  "replan_count": 0,
+  "warnings": [],
+  "elapsed_ms": 2744
+ },
+ "S10": {
+  "session_id": "s-s10",
+  "run_id": "r-b5f414d32f",
+  "status": "ok",
+  "reply": "2026년 12월 19일 18시 이후 대학로에서 시작하는 연극 5편을 추천드려요. 가장 먼저 볼 만한 작품은 18시에 시작해 19시 30분에 끝나는 「연모」예요.",
+  "understood": {
+   "date": "2026-12-19",
+   "start_after": "18:00",
+   "region": "대학로",
+   "genre": "연극"
+  },
+  "defaults_applied": [],
+  "recommendations": [
+   {
+    "performance_id": "PF305851",
+    "title": "연모 [대학로]",
+    "genre": "연극",
+    "poster_url": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF305851_261109_160657.jpg",
+    "venue": {
+     "name": "열린극장",
+     "address": "서울특별시 종로구 창경궁로 258-12 (명륜2가)",
+     "map_url": "https://map.kakao.com/link/map/%EC%97%B4%EB%A6%B0%EA%B7%B9%EC%9E%A5,37.5836706,127.0003428"
+    },
+    "date": "2026-12-19",
+    "showtimes": [
+     {
+      "start": "18:00",
+      "end": "19:30",
+      "home_arrival": null,
+      "verdict": "PASS"
+     }
+    ],
+    "min_price": 66000,
+    "price_raw": "전석 66,000원",
+    "age_rating": "만 11세 이상",
+    "ticket_links": [
+     {
+      "name": "네이버N예약",
+      "url": "https://booking.naver.com/booking/12/bizes/380452"
+     },
+     {
+      "name": "놀유니버스",
+      "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26015952"
+     },
+     {
+      "name": "멜론티켓",
+      "url": "https://ticket.melon.com/performance/index.htm?prodId=214256"
+     },
+     {
+      "name": "예스24",
+      "url": "https://ticket.yes24.com/Perf/61021"
+     },
+     {
+      "name": "타임티켓",
+      "url": "https://timeticket.co.kr/product/7530"
+     }
+    ],
+    "transit": null,
+    "weather": {
+     "status": "out_of_range",
+     "summary": null
+    },
+    "evidence": [
+     "KOPIS 러닝타임 90분",
+     "토 18:00 회차",
+     "최저가 66,000원"
+    ]
+   },
+   {
+    "performance_id": "PF305968",
+    "title": "슛 더 크로우 (Shoot the Crow)",
+    "genre": "연극",
+    "poster_url": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF305968_261110_134826.jpg",
+    "venue": {
+     "name": "링크아트센터",
+     "address": "서울특별시 종로구 대학로14길 29(혜화동)",
+     "map_url": "https://map.kakao.com/link/map/%EB%A7%81%ED%81%AC%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0,37.5846899,127.0022947"
+    },
+    "date": "2026-12-19",
+    "showtimes": [
+     {
+      "start": "19:00",
+      "end": "20:45",
+      "home_arrival": null,
+      "verdict": "PASS"
+     }
+    ],
+    "min_price": 55000,
+    "price_raw": "VIP석 77,000원, R석 66,000원, S석 55,000원",
+    "age_rating": "만 13세 이상",
+    "ticket_links": [
+     {
+      "name": "NHN티켓링크",
+      "url": "http://www.ticketlink.co.kr/product/66840"
+     },
+     {
+      "name": "예스24",
+      "url": "https://ticket.yes24.com/Perf/61029"
+     }
+    ],
+    "transit": null,
+    "weather": {
+     "status": "out_of_range",
+     "summary": null
+    },
+    "evidence": [
+     "KOPIS 러닝타임 105분",
+     "토 19:00 회차",
+     "최저가 55,000원"
+    ]
+   },
+   {
+    "performance_id": "PF306732",
+    "title": "WBB: We Borrowed Brokenness [대학로]",
+    "genre": "연극",
+    "poster_url": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF306732_261117_150807.png",
+    "venue": {
+     "name": "링크더스페이스(LINK THE SPACE)",
+     "address": "서울특별시 종로구 대학로8가길 105 (동숭동)",
+     "map_url": "https://map.kakao.com/link/map/%EB%A7%81%ED%81%AC%EB%8D%94%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4%28LINK%20THE%20SPACE%29,37.581375,127.003527"
+    },
+    "date": "2026-12-19",
+    "showtimes": [
+     {
+      "start": "19:00",
+      "end": "20:50",
+      "home_arrival": null,
+      "verdict": "PASS"
+     }
+    ],
+    "min_price": 60000,
+    "price_raw": "전석 60,000원",
+    "age_rating": "만 16세 이상",
+    "ticket_links": [
+     {
+      "name": "NHN티켓링크",
+      "url": "http://www.ticketlink.co.kr/product/66897"
+     },
+     {
+      "name": "네이버N예약",
+      "url": "https://booking.naver.com/booking/12/bizes/1781306"
+     }
+    ],
+    "transit": null,
+    "weather": {
+     "status": "out_of_range",
+     "summary": null
+    },
+    "evidence": [
+     "KOPIS 러닝타임 110분",
+     "토 19:00 회차",
+     "최저가 60,000원"
+    ]
+   },
+   {
+    "performance_id": "PF306822",
+    "title": "돌아온다 [대학로]",
+    "genre": "연극",
+    "poster_url": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF306822_261118_140431.gif",
+    "venue": {
+     "name": "링크아트센터드림",
+     "address": "서울특별시 종로구 동숭길 123 (동숭동)",
+     "map_url": "https://map.kakao.com/link/map/%EB%A7%81%ED%81%AC%EC%95%84%ED%8A%B8%EC%84%BC%ED%84%B0%EB%93%9C%EB%A6%BC,37.5820171,127.00353629999995"
+    },
+    "date": "2026-12-19",
+    "showtimes": [
+     {
+      "start": "19:00",
+      "end": "20:40",
+      "home_arrival": null,
+      "verdict": "PASS"
+     }
+    ],
+    "min_price": 66000,
+    "price_raw": "전석 66,000원",
+    "age_rating": "만 13세 이상",
+    "ticket_links": [
+     {
+      "name": "NHN티켓링크",
+      "url": "http://www.ticketlink.co.kr/product/67042"
+     },
+     {
+      "name": "네이버N예약",
+      "url": "https://booking.naver.com/booking/12/bizes/1781659"
+     },
+     {
+      "name": "놀유니버스",
+      "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26016586"
+     }
+    ],
+    "transit": null,
+    "weather": {
+     "status": "out_of_range",
+     "summary": null
+    },
+    "evidence": [
+     "KOPIS 러닝타임 100분",
+     "토 19:00 회차",
+     "최저가 66,000원"
+    ]
+   },
+   {
+    "performance_id": "PF306259",
+    "title": "제3회 심야N연극제, 잔영",
+    "genre": "연극",
+    "poster_url": "http://www.kopis.or.kr/upload/pfmPoster/PF_PF306259_261112_141028.gif",
+    "venue": {
+     "name": "나인진홀 (구.청년극장)",
+     "address": "서울특별시 종로구 동숭길 47 (동숭동)",
+     "map_url": "https://map.kakao.com/link/map/%EB%82%98%EC%9D%B8%EC%A7%84%ED%99%80%20%28%EA%B5%AC.%EC%B2%AD%EB%85%84%EA%B7%B9%EC%9E%A5%29,37.580304,127.00424399999997"
+    },
+    "date": "2026-12-19",
+    "showtimes": [
+     {
+      "start": "20:10",
+      "end": "21:50",
+      "home_arrival": null,
+      "verdict": "PASS"
+     }
+    ],
+    "min_price": 40000,
+    "price_raw": "전석 40,000원",
+    "age_rating": "만 14세 이상",
+    "ticket_links": [
+     {
+      "name": "놀유니버스",
+      "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26016316"
+     },
+     {
+      "name": "대학로티켓닷컴",
+      "url": "http://www.maketicket.co.kr/ticket/GD31389"
+     }
+    ],
+    "transit": null,
+    "weather": {
+     "status": "out_of_range",
+     "summary": null
+    },
+    "evidence": [
+     "KOPIS 러닝타임 100분",
+     "토 20:10 회차",
+     "최저가 40,000원"
+    ]
+   }
+  ],
+  "excluded": [
+   {
+    "performance_id": "PF306583",
+    "title": "이퀄 라이프 (Equal Life) [대학로]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "18:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF306452",
+    "title": "모든 날, 모든 순간 [대학로]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "18:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF306398",
+    "title": "급식왕: 스마트폰이 사라졌다",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "18:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF305847",
+    "title": "엄마와 아들: 아들, 엄마도 처음이야! [대학로]",
+    "reason_code": "START_TOO_EARLY",
+    "reason": "18:00 이후에 시작하는 회차가 없어요"
+   },
+   {
+    "performance_id": "PF306827",
+    "title": "찻집 [대학로]",
+    "reason_code": "NOT_DAEHAKRO",
+    "reason": "대학로 공연이 아니에요"
+   }
+  ],
+  "suggestions": [],
+  "facts": null,
+  "assumptions": [
+   "가격·회차는 변동될 수 있으니 예매처에서 최종 확인하세요"
+  ],
+  "sources": [
+   "출처: (재)예술경영지원센터 공연예술통합전산망(www.kopis.or.kr)",
+   "카카오맵",
+   "기상청 단기예보(공공누리 제1유형)"
+  ],
+  "trace": [
+   {
+    "seq": 4,
+    "label": "요청 분석 — plan_request",
+    "elapsed_ms": 1543,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 29,
+    "label": "계획 수립 — LLM 선택 search_performances, get_performance_detail + 규칙 보완 · 동시에 후보 선반입: 공연 목록 조회 ×1 · 공연 상세 ×10",
+    "elapsed_ms": 7627,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 31,
+    "label": "Tool 실행 — 상세 9건 (계획 중 선반입)",
+    "elapsed_ms": 0,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 34,
+    "label": "판정 — 통과 5 / 탈락 4 / 불가 0",
+    "elapsed_ms": 0,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 48,
+    "label": "날씨·지도 추가 — 상위 5편 · 공연장 좌표 ×5 · 날씨 조회 ×1",
+    "elapsed_ms": 3090,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 48,
+    "label": "날씨 조회 실패 (OUT_OF_RANGE)",
+    "elapsed_ms": null,
+    "is_replan": false,
+    "ok": false
+   },
+   {
+    "seq": 50,
+    "label": "응답 생성 — LLM 요약",
+    "elapsed_ms": 947,
+    "is_replan": false,
+    "ok": true
+   }
+  ],
+  "replan_count": 0,
+  "warnings": [],
+  "elapsed_ms": 13217
+ },
+ "S11": {
+  "session_id": "s-s11",
+  "run_id": "r-7b45e6e2aa",
+  "status": "ok",
+  "reply": "대학로의 2026년 11월 21일 20시 예보는 맑고 강수확률 0%, 기온 -3℃예요. 추운 날씨이니 따뜻하게 입고 가시는 것이 좋겠어요.",
+  "understood": {
+   "date": "2026-11-21",
+   "start_after": "20:00",
+   "region": "대학로"
+  },
+  "defaults_applied": [],
+  "recommendations": [],
+  "excluded": [],
+  "suggestions": [],
+  "facts": {
+   "found": true,
+   "kind": "weather",
+   "place": "대학로",
+   "address": "서울 종로구 혜화동 180",
+   "date": "2026-11-21",
+   "grid": {
+    "nx": 60,
+    "ny": 127
+   },
+   "base": "2026-11-20 08:00 발표",
+   "hours": [
+    {
+     "time": "20:00",
+     "forecast_time": "20:00",
+     "pop": 0,
+     "pty": "없음",
+     "sky": "맑음",
+     "tmp": -3
+    }
+   ],
+   "summary": "20시 강수확률 0% · 기온 -3℃"
+  },
+  "assumptions": [
+   "가격·회차는 변동될 수 있으니 예매처에서 최종 확인하세요"
+  ],
+  "sources": [
+   "출처: (재)예술경영지원센터 공연예술통합전산망(www.kopis.or.kr)",
+   "카카오맵",
+   "기상청 단기예보(공공누리 제1유형)"
+  ],
+  "trace": [
+   {
+    "seq": 4,
+    "label": "요청 분석 — fact_query",
+    "elapsed_ms": 2962,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 7,
+    "label": "계획 수립 — LLM 선택 search_places, get_weather",
+    "elapsed_ms": 3216,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 13,
+    "label": "Tool 실행 — 날씨만 조회 · 장소 검색 ×1 · 날씨 조회 ×1",
+    "elapsed_ms": 1199,
+    "is_replan": false,
+    "ok": true
+   },
+   {
+    "seq": 15,
+    "label": "응답 생성 — LLM 요약",
+    "elapsed_ms": 1548,
+    "is_replan": false,
+    "ok": true
+   }
+  ],
+  "replan_count": 0,
+  "warnings": [],
+  "elapsed_ms": 8933
+ }
+}

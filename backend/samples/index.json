@@ -1,0 +1,522 @@
+[
+  {
+    "file": "kopis/list_20261121_seoul-jongno_theater.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/pblprfr?service=REDACTED&stdate=20261121&eddate=20261121&cpage=1&prfstate=02&signgucode=11&signgucodesub=1111&shcate=AAAA&rows=30",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 1119,
+    "fetched_at": "2026-11-20T08:42:19"
+  },
+  {
+    "file": "kopis/detail_PF306792.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/pblprfr/PF306792?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 708,
+    "fetched_at": "2026-11-20T08:42:20"
+  },
+  {
+    "file": "kopis/detail_PF306557.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/pblprfr/PF306557?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 657,
+    "fetched_at": "2026-11-20T08:42:21"
+  },
+  {
+    "file": "kopis/detail_PF306527.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/pblprfr/PF306527?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 709,
+    "fetched_at": "2026-11-20T08:42:22"
+  },
+  {
+    "file": "kopis/detail_PF306452.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/pblprfr/PF306452?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 585,
+    "fetched_at": "2026-11-20T08:42:22"
+  },
+  {
+    "file": "kopis/detail_PF305998.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/pblprfr/PF305998?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 513,
+    "fetched_at": "2026-11-20T08:42:23"
+  },
+  {
+    "file": "kopis/detail_PF305857.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/pblprfr/PF305857?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 549,
+    "fetched_at": "2026-11-20T08:42:24"
+  },
+  {
+    "file": "kopis/detail_PF305847.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/pblprfr/PF305847?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 790,
+    "fetched_at": "2026-11-20T08:42:25"
+  },
+  {
+    "file": "kopis/detail_PF305818.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/pblprfr/PF305818?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 823,
+    "fetched_at": "2026-11-20T08:42:26"
+  },
+  {
+    "file": "kopis/detail_PF305551.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/pblprfr/PF305551?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 819,
+    "fetched_at": "2026-11-20T08:42:27"
+  },
+  {
+    "file": "kopis/detail_PF305411.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/pblprfr/PF305411?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 820,
+    "fetched_at": "2026-11-20T08:42:29"
+  },
+  {
+    "file": "kopis/detail_PF305235.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/pblprfr/PF305235?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 746,
+    "fetched_at": "2026-11-20T08:42:30"
+  },
+  {
+    "file": "kopis/detail_PF305147.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/pblprfr/PF305147?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 693,
+    "fetched_at": "2026-11-20T08:42:31"
+  },
+  {
+    "file": "kopis/detail_PF304896.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/pblprfr/PF304896?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 819,
+    "fetched_at": "2026-11-20T08:42:32"
+  },
+  {
+    "file": "kopis/detail_PF304882.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/pblprfr/PF304882?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 717,
+    "fetched_at": "2026-11-20T08:42:33"
+  },
+  {
+    "file": "kopis/detail_PF304832.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/pblprfr/PF304832?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 717,
+    "fetched_at": "2026-11-20T08:42:34"
+  },
+  {
+    "file": "kopis/detail_PF304824.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/pblprfr/PF304824?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 691,
+    "fetched_at": "2026-11-20T08:42:35"
+  },
+  {
+    "file": "kopis/detail_PF304787.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/pblprfr/PF304787?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 706,
+    "fetched_at": "2026-11-20T08:42:36"
+  },
+  {
+    "file": "kopis/detail_PF304750.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/pblprfr/PF304750?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 762,
+    "fetched_at": "2026-11-20T08:42:37"
+  },
+  {
+    "file": "kopis/detail_PF304591.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/pblprfr/PF304591?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 758,
+    "fetched_at": "2026-11-20T08:42:38"
+  },
+  {
+    "file": "kopis/detail_PF304585.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/pblprfr/PF304585?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 986,
+    "fetched_at": "2026-11-20T08:42:39"
+  },
+  {
+    "file": "kopis/list_20261121_seoul_musical.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/pblprfr?service=REDACTED&stdate=20261121&eddate=20261121&cpage=1&prfstate=02&signgucode=11&shcate=GGGA&rows=20",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 790,
+    "fetched_at": "2026-11-20T08:42:40"
+  },
+  {
+    "file": "kopis/detail_PF305735.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/pblprfr/PF305735?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 747,
+    "fetched_at": "2026-11-20T08:42:41"
+  },
+  {
+    "file": "kopis/detail_PF305142.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/pblprfr/PF305142?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 604,
+    "fetched_at": "2026-11-20T08:42:42"
+  },
+  {
+    "file": "kopis/detail_PF304765.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/pblprfr/PF304765?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 782,
+    "fetched_at": "2026-11-20T08:42:43"
+  },
+  {
+    "file": "kopis/detail_PF304512.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/pblprfr/PF304512?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 694,
+    "fetched_at": "2026-11-20T08:42:44"
+  },
+  {
+    "file": "kopis/detail_PF304266.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/pblprfr/PF304266?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 703,
+    "fetched_at": "2026-11-20T08:42:45"
+  },
+  {
+    "file": "kopis/detail_PF303893.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/pblprfr/PF303893?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 661,
+    "fetched_at": "2026-11-20T08:42:46"
+  },
+  {
+    "file": "kopis/detail_PF303594.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/pblprfr/PF303594?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 765,
+    "fetched_at": "2026-11-20T08:42:47"
+  },
+  {
+    "file": "kopis/detail_PF303405.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/pblprfr/PF303405?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 617,
+    "fetched_at": "2026-11-20T08:42:48"
+  },
+  {
+    "file": "kopis/detail_PF303276.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/pblprfr/PF303276?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 511,
+    "fetched_at": "2026-11-20T08:42:49"
+  },
+  {
+    "file": "kopis/detail_PF303127.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/pblprfr/PF303127?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 820,
+    "fetched_at": "2026-11-20T08:42:50"
+  },
+  {
+    "file": "kopis/venue_FC000028.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/prfplc/FC000028?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 819,
+    "fetched_at": "2026-11-20T08:42:51"
+  },
+  {
+    "file": "kopis/venue_FC000059.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/prfplc/FC000059?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 824,
+    "fetched_at": "2026-11-20T08:42:53"
+  },
+  {
+    "file": "kopis/venue_FC000180.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/prfplc/FC000180?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 671,
+    "fetched_at": "2026-11-20T08:42:54"
+  },
+  {
+    "file": "kopis/venue_FC000362.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/prfplc/FC000362?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 688,
+    "fetched_at": "2026-11-20T08:42:55"
+  },
+  {
+    "file": "kopis/venue_FC000453.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/prfplc/FC000453?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 799,
+    "fetched_at": "2026-11-20T08:42:56"
+  },
+  {
+    "file": "kopis/venue_FC000516.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/prfplc/FC000516?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 719,
+    "fetched_at": "2026-11-20T08:42:57"
+  },
+  {
+    "file": "kopis/venue_FC000558.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/prfplc/FC000558?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 678,
+    "fetched_at": "2026-11-20T08:42:58"
+  },
+  {
+    "file": "kopis/venue_FC000774.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/prfplc/FC000774?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 759,
+    "fetched_at": "2026-11-20T08:42:59"
+  },
+  {
+    "file": "kopis/venue_FC000794.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/prfplc/FC000794?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 689,
+    "fetched_at": "2026-11-20T08:43:00"
+  },
+  {
+    "file": "kopis/venue_FC000825.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/prfplc/FC000825?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 752,
+    "fetched_at": "2026-11-20T08:43:01"
+  },
+  {
+    "file": "kopis/venue_FC001121.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/prfplc/FC001121?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 758,
+    "fetched_at": "2026-11-20T08:43:02"
+  },
+  {
+    "file": "kopis/venue_FC001141.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/prfplc/FC001141?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 679,
+    "fetched_at": "2026-11-20T08:43:03"
+  },
+  {
+    "file": "kopis/venue_FC001156.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/prfplc/FC001156?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 717,
+    "fetched_at": "2026-11-20T08:43:04"
+  },
+  {
+    "file": "kopis/venue_FC001201.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/prfplc/FC001201?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 740,
+    "fetched_at": "2026-11-20T08:43:05"
+  },
+  {
+    "file": "kopis/venue_FC001209.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/prfplc/FC001209?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 723,
+    "fetched_at": "2026-11-20T08:43:06"
+  },
+  {
+    "file": "kopis/venue_FC001250.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/prfplc/FC001250?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 691,
+    "fetched_at": "2026-11-20T08:43:07"
+  },
+  {
+    "file": "kopis/venue_FC001266.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/prfplc/FC001266?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 701,
+    "fetched_at": "2026-11-20T08:43:08"
+  },
+  {
+    "file": "kopis/venue_FC001535.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/prfplc/FC001535?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 738,
+    "fetched_at": "2026-11-20T08:43:09"
+  },
+  {
+    "file": "kopis/venue_FC001539.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/prfplc/FC001539?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 715,
+    "fetched_at": "2026-11-20T08:43:10"
+  },
+  {
+    "file": "kopis/venue_FC001565.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/prfplc/FC001565?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 720,
+    "fetched_at": "2026-11-20T08:43:11"
+  },
+  {
+    "file": "kopis/venue_FC001608.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/prfplc/FC001608?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 716,
+    "fetched_at": "2026-11-20T08:43:12"
+  },
+  {
+    "file": "kopis/venue_FC001814.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/prfplc/FC001814?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 720,
+    "fetched_at": "2026-11-20T08:43:13"
+  },
+  {
+    "file": "kopis/venue_FC001884.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/prfplc/FC001884?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 717,
+    "fetched_at": "2026-11-20T08:43:14"
+  },
+  {
+    "file": "kopis/venue_FC002588.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/prfplc/FC002588?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 612,
+    "fetched_at": "2026-11-20T08:43:15"
+  },
+  {
+    "file": "kopis/venue_FC002677.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/prfplc/FC002677?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 720,
+    "fetched_at": "2026-11-20T08:43:16"
+  },
+  {
+    "file": "kopis/venue_FC002777.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/prfplc/FC002777?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 718,
+    "fetched_at": "2026-11-20T08:43:17"
+  },
+  {
+    "file": "kopis/venue_FC004779.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/prfplc/FC004779?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 669,
+    "fetched_at": "2026-11-20T08:43:18"
+  },
+  {
+    "file": "kopis/venue_FC004938.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/prfplc/FC004938?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 693,
+    "fetched_at": "2026-11-20T08:43:19"
+  },
+  {
+    "file": "kopis/venue_FC004998.xml",
+    "url": "http://www.kopis.or.kr/openApi/restful/prfplc/FC004998?service=REDACTED",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 797,
+    "fetched_at": "2026-11-20T08:43:20"
+  },
+  {
+    "file": "kakao/keyword_mangwon-station.json",
+    "url": "https://dapi.kakao.com/v2/local/search/keyword.json?query=%EB%A7%9D%EC%9B%90%EC%97%AD&size=5",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 80,
+    "fetched_at": "2026-11-20T08:43:20"
+  },
+  {
+    "file": "kakao/keyword_daehakro-nearby-restaurant.json",
+    "url": "https://dapi.kakao.com/v2/local/search/keyword.json?query=%EB%A7%9B%EC%A7%91&x=127.001699&y=37.582299&radius=500&category_group_code=FD6&size=5",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 76,
+    "fetched_at": "2026-11-20T08:43:20"
+  },
+  {
+    "file": "kakao/transit_hyehwa_to_mangwon.json",
+    "url": "https://dapi.kakao.com/v2/routing/publictraffic?start_x=127.001699&start_y=37.582299&end_x=126.910182&end_y=37.555996",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 286,
+    "fetched_at": "2026-11-20T08:43:21"
+  },
+  {
+    "file": "kma/vilage_20261120_0800_60-127.json",
+    "url": "https://apis.data.go.kr/1360000/VilageFcstInfoService_2.0/getVilageFcst?serviceKey=REDACTED&pageNo=1&numOfRows=1500&dataType=JSON&base_date=20261120&base_time=0800&nx=60&ny=127",
+    "status": 200,
+    "code": "OK",
+    "elapsed_ms": 1092,
+    "fetched_at": "2026-11-20T08:43:22"
+  }
+]

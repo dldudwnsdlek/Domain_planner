@@ -1,0 +1,40 @@
+---
+config:
+  flowchart:
+    curve: linear
+---
+graph TD;
+	__start__([<p>__start__</p>]):::first
+	analyze(analyze)
+	clarify(clarify)
+	respond_simple(respond_simple)
+	save_plan(save_plan)
+	plan(plan)
+	replan(replan)
+	execute(execute)
+	judge(judge)
+	enrich(enrich)
+	respond(respond)
+	__end__([<p>__end__</p>]):::last
+	__start__ --> analyze;
+	analyze -.-> clarify;
+	analyze -.-> plan;
+	analyze -.-> respond;
+	analyze -.-> respond_simple;
+	analyze -.-> save_plan;
+	enrich --> respond;
+	execute -.-> clarify;
+	execute -.-> judge;
+	execute -.-> respond;
+	judge -.-> enrich;
+	judge -.-> replan;
+	judge -.-> respond;
+	plan --> execute;
+	replan --> plan;
+	clarify --> __end__;
+	respond --> __end__;
+	respond_simple --> __end__;
+	save_plan --> __end__;
+	classDef default fill:#f2f0ff,line-height:1.2
+	classDef first fill-opacity:0
+	classDef last fill:#bfb6fc
